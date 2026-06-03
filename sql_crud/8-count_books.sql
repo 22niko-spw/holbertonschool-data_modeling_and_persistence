@@ -1,2 +1,2 @@
-SELECT SUM(stock) 
+SELECT COUNT(stock) 
 FROM books
